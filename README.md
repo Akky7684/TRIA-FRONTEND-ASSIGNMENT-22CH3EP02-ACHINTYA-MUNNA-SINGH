@@ -1,5 +1,5 @@
 # TRIA — Contact List App
-**Frontend assignment — Achintya "Akky" Munna Singh (22CH3EP02)**
+**Frontend assignment — Achintya Munna Singh (22CH3EP02)**
 
 > A modern, responsive contact-list single-page application built with React + Vite + Tailwind (Lovable starter).  
 > Deployed on Vercel and intended as the frontend submission for Tria's Frontend Developer assignment.
@@ -9,6 +9,8 @@
 ##  Live Demo
 **Vercel (production):**  
 https://tria-frontend-develop-git-dc9be6-achintya-munna-singhs-projects.vercel.app
+https://tria-frontend-developer-assignment-achintya-munna-2pnx3mjw9.vercel.app
+https://triafrontendcontactli-git-3cfec6-achintya-munna-singhs-projects.vercel.app?_vercel_share=OICEV56hYLPHSeMA5jeLxT4cNa16MHCY
 
 ---
 
