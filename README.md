@@ -8,9 +8,7 @@
 
 ##  Live Demo
 **Vercel (production):**  
-https://tria-frontend-develop-git-dc9be6-achintya-munna-singhs-projects.vercel.app
 https://tria-frontend-developer-assignment-achintya-munna-2pnx3mjw9.vercel.app
-https://triafrontendcontactli-git-3cfec6-achintya-munna-singhs-projects.vercel.app?_vercel_share=OICEV56hYLPHSeMA5jeLxT4cNa16MHCY
 
 ---
 
